@@ -2,7 +2,8 @@
 This is my first project
 
 #  Introduction
-A brief overview of the project. Mention the problem this application solves and why you decided to build it.
+A brief overview of the project. Mention the problem this application solves and why you decided to build it.The aims to 
+bridge the gap between complex meteorological data and user-friendly visualization.
 
 # 🚀 Features
 Real-time Tracking: Describe any live data updates.
