@@ -40,7 +40,7 @@ APIs: OpenWeatherMap, Google Maps API
 
 # Group Members
 
-1. Abdul Muqtasid (Group Leader)
-2. Atifullah Khan (UI Designer)
-3. Godbole Anubhav (Backend & API Integration)
-4. Quality Assurance (QA) & Testing
+1. **Abdul Muqtasid (Group Leader)**
+2. **Atifullah Khan (UI Designer)**
+3. **Godbole Anubhav (Backend & API Integration)**
+4. **Quality Assurance (QA) & Testing**
