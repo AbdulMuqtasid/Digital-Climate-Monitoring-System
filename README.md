@@ -21,4 +21,7 @@ Frontend: HTML, CSS, JavaScript
 APIs: OpenWeatherMap, Google Maps API
 
 # 📸 Screenshots
+
+<img width="1393" height="445" alt="Weather Pro - Beautiful Weather Forecast - Google Chrome 08-04-2026 19_41_57" src="https://github.com/user-attachments/assets/65924142-669c-471f-a436-ed77c4a6e864" />
+
 <img width="1403" height="943" alt="Weather Pro - Beautiful Weather Forecast - Google Chrome 08-04-2026 19_42_09" src="https://github.com/user-attachments/assets/b53c6f54-a527-4b4a-a107-7e100920d9b0" />
