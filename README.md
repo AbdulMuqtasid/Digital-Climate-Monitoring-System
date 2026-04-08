@@ -29,3 +29,18 @@ APIs: OpenWeatherMap, Google Maps API
 <img width="1384" height="442" alt="Weather Pro - Beautiful Weather Forecast - Google Chrome 08-04-2026 19_42_14" src="https://github.com/user-attachments/assets/fc7f821b-411e-41ce-9429-7885fe0b7ef0" />
 
 <img width="1390" height="603" alt="Weather Pro - Beautiful Weather Forecast - Google Chrome 08-04-2026 19_42_17" src="https://github.com/user-attachments/assets/04c2df50-b1a3-4fe0-aadb-2acaba0c79b5" />
+
+# Methodology
+
+1. Data Sourcing: Fetching data from the API.
+
+2. Processing: Handling data logic using JavaScript.
+
+3. Output: Displaying the final result on the dashboard.
+
+# Group Members
+
+1. Abdul Muqtasid (Group Leader)
+2. Atifullah Khan (UI Designer)
+3. Godbole Anubhav (Backend & API Integration)
+4. Quality Assurance (QA) & Testing
