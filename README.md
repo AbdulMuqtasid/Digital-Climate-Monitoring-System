@@ -1,5 +1,4 @@
 # Digital-Climate-Monitoring-System
-This is my first project
 
 #  Introduction
 A brief overview of the project. Mention the problem this application solves and why you decided to build it.The aims to 
@@ -20,3 +19,5 @@ List the languages and tools you used:
 Frontend: HTML, CSS, JavaScript
 
 APIs: OpenWeatherMap, Google Maps API
+
+# 📸 Screenshots
