@@ -21,3 +21,4 @@ Frontend: HTML, CSS, JavaScript
 APIs: OpenWeatherMap, Google Maps API
 
 # 📸 Screenshots
+![Uploading Weather Pro - Beautiful Weather Forecast - Google Chrome 08-04-2026 19_41_57.png…]()
